@@ -29,3 +29,7 @@ Yes, that's the purpose of this Addon
 Of course you can. But you still play againts Computer. I'll update it so you can play againts each other. So now, your friend can help you to play againts Computer
 ### Are the computer/bot is hard to fight?
 The bot still stupid, so you can win successively. I'll update it so you can change the difficulty. But now the computer is stuck on easy mode. (Be careful, sometimes the computer is smart for a second)
+
+## Knowing Issue
+1. When you win the game, the computer still playing for last time
+2. Sometimes, You and Computer can win at the same time, but next time I'll fix it
