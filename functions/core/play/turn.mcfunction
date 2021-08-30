@@ -1,0 +1,1 @@
+tellraw @a { "rawtext": [ { "text": "[§eTicTacToe§r] " }, { "text": "Your turn. Choose one tile" } ] }

@@ -1,0 +1,1 @@
+tellraw @s { "rawtext": [ { "text": "§eHelp:Tags§r" }, { "text": "\nTags are used to run the game correctly. §4Don't change anything or games cannot be played§r." } ] }

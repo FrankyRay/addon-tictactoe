@@ -1,0 +1,2 @@
+## Information Page
+tellraw @s { "rawtext": [ { "text": "Hi, " }, { "selector": "@s" }, { "text": ". I will tell how to play Tic Tac Toe" }, { "text": "\nBefore playing, summon the Armor Stand and name it §eTicTacToe§r" }, { "text": "\nThis addon using Tags and Scoreboard to run the game, learn more on §6/function help/tags§r." } ] }

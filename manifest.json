@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "TicTacToe Addon",
+        "description": "Play tic tac toe on your minecraft",
+        "uuid": "6b80eccb-37bb-4a83-96b5-5f4109a5aa3e",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            17,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Created By FrankyRayMS",
+            "type": "data",
+            "uuid": "70cf7781-5ada-4537-9d21-b39fef182875",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
